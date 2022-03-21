@@ -1,0 +1,92 @@
+h1 {
+  text-align: center;
+  margin-top: 10%;
+}
+
+body {
+  background-color: rgb(34, 66, 116);
+}
+
+.container {
+  position: relative;
+  top: -30px;
+}
+
+.main-box {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: left;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  padding: 2%;
+  margin-top: 15%;
+  margin-left: 32%;
+  border-radius: 12px;
+  background-color: #77b5d9;
+  color: white;
+  width: 30%;
+}
+
+.form-table {
+  box-sizing: border-box;
+  font-size: 14px;
+  word-wrap: break-word;
+  line-height: 1.5;
+  color: white;
+}
+
+.login-field {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 400;
+  text-align: left;
+  word-wrap: break-word;
+}
+
+#login-field {
+  display: block;
+  border-color: #0d1117;
+  border-radius: 6%;
+  width: 95%;
+  height: 50%;
+  padding: 8px 12px;
+  font-size: 14px;
+  line-height: 20px;
+  border-radius: 6px;
+}
+
+.submit-button {
+  display: block;
+  border-color: #14397d;
+  background-color: #14397d;
+  border-radius: 6%;
+  width: 100%;
+  padding: 10px;
+  font-size: 18px;
+  line-height: 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  color: white;
+}
+
+.sign-up {
+  display: block;
+  color: white;
+  background-color: #14397d;
+  padding: 20px;
+  text-align: center;
+  border: 1px solid #14397d;
+  border-radius: 6px;
+  width: 34%;
+  word-wrap: break-word;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  font-size: 17px;
+
+  line-height: 1.5;
+  margin-left: 32%;
+}
+
+/* ********
+css for sign in page 
+******** */

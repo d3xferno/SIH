@@ -1,0 +1,14 @@
+.slider {
+  position: relative;
+  width: auto;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  margin-right: 20px;
+}
+
+.img {
+  height: 320px;
+  width: 480px;
+  margin-left: 10px;
+}

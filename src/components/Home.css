@@ -1,0 +1,21 @@
+.upload {
+  background-image: url("https://www.cs.utexas.edu/~ri2744/background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.search {
+  background-image: url("https://i.redd.it/vdhgv54ndnj21.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+p {
+  background-image: linear-gradient(
+    to right,
+    #061161,
+    #780206
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color:transparent;
+  background-clip: text;
+}

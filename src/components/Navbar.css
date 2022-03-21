@@ -1,0 +1,30 @@
+.nav__logo {
+  height: 60px;
+  width: auto;
+}
+
+.nav {
+  background-color: #14397d;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  font-size: 18px;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex,
+a {
+  padding: 15px;
+  transition: ease-in-out 150ms;
+}
+
+a:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}

@@ -1,0 +1,21 @@
+body {
+  background-color: #77b5d9;
+}
+
+.projects {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center;
+  align-items: center; */
+  flex-wrap: wrap;
+}
+
+.project {
+  height: 175px;
+  width: 250px;
+  background-color: #d7eaf3;
+  border-radius: 10px;
+  margin-left: 30px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}

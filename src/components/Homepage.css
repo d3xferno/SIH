@@ -1,0 +1,76 @@
+
+.video {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  /* z-index: 2; */
+}
+
+
+.main-div
+{
+    display: flex;
+justify-content:flex-end;
+flex-direction: row;
+box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+padding: 6px;
+margin-top: 2%;
+margin-left: 59%;
+border-radius: 12px;
+background-color: #161b22;
+color: white;
+width: 38%;
+position: fixed;
+z-index: 1;
+}
+
+.form-table
+{
+  box-sizing: border-box;
+  font-size: 14px;
+  word-wrap: break-word;
+  line-height: 1.5;
+  color: white;
+}
+
+.login-field
+{
+  /* display: block; */
+/* margin-bottom: 8px; */
+/* font-weight: 400; */
+/* text-align: left; */
+/* word-wrap: break-word; */
+}
+
+#login----field
+{
+   /* float: left; */
+   display: block;
+border-color: #0d1117;
+border-radius: 6%;
+width: 191%;
+height: 50%;
+padding: 8px 12px;
+font-size: 14px;
+line-height: 20px;
+border-radius: 6px;
+margin-left: -106%;
+}
+
+.submit----button
+{
+    display: block;
+border-color: #0ee732;
+background-color: #0ee732;
+border-radius: 6%;
+width: 17%;
+padding: 10px;
+font-size: 18px;
+line-height: 20px;
+border-radius: 6px;
+cursor: pointer;
+margin-left: 1%;
+/* float: right; */
+}

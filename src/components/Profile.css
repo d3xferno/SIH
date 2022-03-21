@@ -1,0 +1,30 @@
+body {
+  color: white;
+}
+
+.profile {
+  display: flex;
+  margin-bottom: 50px;
+  color: #000000;
+}
+
+.profile,
+h3,
+p {
+  color: black;
+}
+
+.prof {
+  background-color: #d7eaf3;
+  border-radius: 15px;
+  height: 500px;
+  margin-left: 20px;
+  margin-top: 35px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.projects {
+}
